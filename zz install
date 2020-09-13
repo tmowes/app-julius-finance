@@ -1,0 +1,13 @@
+yarn add intl styled-components react-is react-dom @react-navigation/native
+yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view react-native-tab-view
+yarn add @react-navigation/material-top-tabs @react-navigation/stack @react-navigation/drawer @react-navigation/bottom-tabs
+
+
+
+
+yarn add -D eslint-plugin-react@^7.20.0 @typescript-eslint/eslint-plugin@latest eslint-config-airbnb@latest eslint@^6.8.0 eslint-plugin-import@^2.21.2 eslint-plugin-jsx-a11y@^6.3.0 eslint-plugin-react-hooks@^4 @typescript-eslint/parser@latest
+
+
+yarn add -D @types/styled-components @types/react-native-vector-icons eslint-import-resolver-typescript prettier eslint-config-prettier eslint-plugin-prettier
+
+
